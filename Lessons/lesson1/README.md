@@ -1,4 +1,3 @@
-```markdown
 # 🐍 Python for Everybody – Lesson 1: Communicating with Python (`print()` and `input()`)
 
 Welcome to your first real Python lesson! 🎉  
@@ -191,4 +190,3 @@ You’ll learn how to make your programs more powerful and flexible.
 If you’ve made it this far, you’ve already written your first Python program. That’s a huge win! 🎉  
 Now go ahead and customize your code, try new questions, and make it your own.
 
-```
