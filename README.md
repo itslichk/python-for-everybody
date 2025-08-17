@@ -20,4 +20,3 @@ By the end, you'll be writing real Python programs and solving problems with cod
 - That's it! No fancy tools or prior knowledge required
 
 ## 🚀 Let's Get Started!
-You can follow our lessons on [Udemy]
